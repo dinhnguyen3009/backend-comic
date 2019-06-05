@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de7c406f1cf068cba312b5f220018a6a",
+    "revision": "eab7cc05187ce2d8ee811f675455fce6",
     "url": "/backend-comic/index.html"
   },
   {
-    "revision": "fbf74a9df2ed48b0a119",
+    "revision": "5c80cdd0e45e07d495d4",
     "url": "/backend-comic/static/css/main.584f321a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/backend-comic/static/js/2.2f727966.chunk.js"
   },
   {
-    "revision": "fbf74a9df2ed48b0a119",
-    "url": "/backend-comic/static/js/main.3ea8d1cf.chunk.js"
+    "revision": "5c80cdd0e45e07d495d4",
+    "url": "/backend-comic/static/js/main.c021c241.chunk.js"
   },
   {
     "revision": "833887c38b6c8c033024",
