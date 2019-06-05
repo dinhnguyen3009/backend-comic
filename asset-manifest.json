@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/backend-comic/static/css/main.584f321a.chunk.css",
-    "main.js": "/backend-comic/static/js/main.b1a628d4.chunk.js",
-    "main.js.map": "/backend-comic/static/js/main.b1a628d4.chunk.js.map",
+    "main.js": "/backend-comic/static/js/main.967c3365.chunk.js",
+    "main.js.map": "/backend-comic/static/js/main.967c3365.chunk.js.map",
     "runtime~main.js": "/backend-comic/static/js/runtime~main.1879767c.js",
     "runtime~main.js.map": "/backend-comic/static/js/runtime~main.1879767c.js.map",
     "static/js/2.2f727966.chunk.js": "/backend-comic/static/js/2.2f727966.chunk.js",
     "static/js/2.2f727966.chunk.js.map": "/backend-comic/static/js/2.2f727966.chunk.js.map",
     "index.html": "/backend-comic/index.html",
-    "precache-manifest.152b20609446f9cd1d87014569b19792.js": "/backend-comic/precache-manifest.152b20609446f9cd1d87014569b19792.js",
+    "precache-manifest.cd9633ee8a5fa58d66fc9fae4bb7fd29.js": "/backend-comic/precache-manifest.cd9633ee8a5fa58d66fc9fae4bb7fd29.js",
     "service-worker.js": "/backend-comic/service-worker.js",
     "static/css/main.584f321a.chunk.css.map": "/backend-comic/static/css/main.584f321a.chunk.css.map"
   }
